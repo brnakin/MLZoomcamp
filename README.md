@@ -25,7 +25,7 @@ Technologies: Python, Jupyter Notebooks, NumPy, Pandas, Matplotlib, Seaborn, Sci
 - TensorFlow Lite
 - Kubernetes
 - TensorFlow Serving
-- KServe (optional)
+- KServe
 
 Technologies: Flask, Pipenv, Docker, AWS Lambda, TensorFlow Lite, Kubernetes, TensorFlow Serving, KServe
 
@@ -34,6 +34,6 @@ Technologies: Flask, Pipenv, Docker, AWS Lambda, TensorFlow Lite, Kubernetes, Te
 In addition to the homework assignments, there are two projects that I need to complete in order to get a certificate of completion:
 
 - Midterm project: I will create a car-price prediction project using linear regression and feature engineering techniques.
-- Capstone project: I will create a churn prediction project using logistic regression and evaluation metrics. I will also deploy your model using Flask and Docker.
+- Capstone project: I will create a churn prediction project using logistic regression and evaluation metrics. I will also deploy my models using Flask and Docker.
 
 I will continue to upload related assignments and projects here as I finish them.
